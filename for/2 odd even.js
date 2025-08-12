@@ -11,7 +11,7 @@ for (let v = 61; v <= 100; v++) {
         console.log("odd number ",v);
     }
     
-}
+};
 
 
 /***
@@ -26,5 +26,5 @@ for (let x = 78; x <= 98; x++) {
     if (x % 2 !== 0) {
         continue;
     }
-    console.log("even number is ", x);
-}
+    console.log("even number is ",x);
+};
