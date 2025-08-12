@@ -6,6 +6,17 @@ Find all the odd numbers from 61 to 100.
 
  */
 
+let o = 61;
+while (o <= 100) {
+    
+    if(o % 2 !== 0){
+        console.log("Odd Number is ", o);
+    }
+    o++ ;
+    
+    
+}
+
 
 /***
 
