@@ -15,7 +15,7 @@ for (let i = 91; i <= 129; i++) {
    sum += i;
    console.log("Sum of odd number ", sum);
     
-}
+};
 
 
 
@@ -35,4 +35,4 @@ for (let i = 51; i <= 85; i++) {
     console.log("Sum of even number ", summation);
    }
     
-}
+};
