@@ -26,4 +26,13 @@ Find all the even numbers from 78 to 98.
 
  */
 
-/*programming hero*/
+let e = 78;
+while (e <= 98) {
+    
+    if(e % 2 === 0){
+        console.log("Even Number is ", e);
+    }
+    e++ ;
+    
+    
+}
